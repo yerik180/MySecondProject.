@@ -1,1 +1,3 @@
 Hello from IntelliJ
+
+Another line from GitHub
